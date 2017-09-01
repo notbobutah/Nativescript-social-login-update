@@ -1,7 +1,7 @@
 [![npm](https://img.shields.io/npm/v/nativescript-social-login.svg)](https://www.npmjs.com/package/nativescript-social-login)
 [![npm](https://img.shields.io/npm/dt/nativescript-social-login.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-social-login)
 
-# NativeScript Social Login
+# NativeScript Social Login Updated to latest TS and NS
 
 [NativeScript](https://www.nativescript.org/) module for social (token based) log-ins.
 
@@ -25,6 +25,9 @@ The full documentation can be found on [readme.io](https://nativescript-sociallo
 
 ## Changes
 
+* Updated to Android SDK 26
+* Updated to typescript 2.5.2
+* Updated to Nativescript 3.1.1
 ### v1.4.x to 1.5.x
 
 #### Google
