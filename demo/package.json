@@ -1,0 +1,30 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "org.nativescript.NativescriptSocialLoginDemo",
+    "tns-ios": {
+      "version": "2.4.0"
+    },
+    "tns-android": {
+      "version": "3.1.1"
+    }
+  },
+  "dependencies": {
+    "filewalker": "^0.1.3",
+    "nativescript-social-login": "file:..\\plugin",
+    "tns-core-modules": "3.1.1",
+    "tns-platform-declarations": "^3.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.2",
+    "babel-traverse": "6.21.0",
+    "babel-types": "^6.21.0",
+    "babylon": "6.15.0",
+    "lazy": "1.0.11",
+    "nativescript-dev-android-snapshot": "^0.*.*",
+    "nativescript-dev-typescript": "^0.3.2"
+  }
+}
